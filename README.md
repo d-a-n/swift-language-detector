@@ -7,7 +7,6 @@ import LanguageDetector
 
 let text1 = "The quick brown fox jumps over the lazy dog"
 let text2 = "Zwölf Boxkämpfer jagen Eva quer über den großen Sylter Deich"
-
 let text3 = "abc 123"
 
 LanguageDetector.detect(text1) // -> "en"
