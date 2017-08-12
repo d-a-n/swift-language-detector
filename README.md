@@ -1,6 +1,25 @@
 # LanguageDetector
 
-LanguageDetector tries to detect the language of a given text by comparing it against the top 1000 words of every language.
+LanguageDetector tries to detect the language of a given text by comparing it against the top 1000 words of every language. This package works completely offline.
+
+## Requirements
+* Swift 3
+
+## Instructions
+
+### Use LanguageDetector in your project
+
+Simply add a dependency in Swift Package Manager.
+
+```swift
+dependencies: [
+    .Package(url: "https://github.com/d-a-n/swift-language-detector", majorVersion: 0, minor: 1),
+]
+```
+
+Then add `import LanguageDetector ` to your source file.
+
+#### Example
 
 ```
 import LanguageDetector
