@@ -1,4 +1,7 @@
 # LanguageDetector
+[![Build Status](https://travis-ci.org/d-a-n/swift-language-detector.svg?branch=master)](https://travis-ci.org/d-a-n/swift-language-detector) ![](https://img.shields.io/badge/%20Swift%20-3.1-blue.svg)
+
+
 
 LanguageDetector tries to detect the language of a given text by comparing it against the top 1000 words of every language. This package works completely offline.
 
