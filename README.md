@@ -1,5 +1,5 @@
 # LanguageDetector
-[![Build Status](https://travis-ci.org/d-a-n/swift-language-detector.svg?branch=master)](https://travis-ci.org/d-a-n/swift-language-detector) ![](https://img.shields.io/badge/%20Swift%20-3.1-blue.svg)
+[![Build Status](https://travis-ci.org/d-a-n/swift-language-detector.svg?branch=master)](https://travis-ci.org/d-a-n/swift-language-detector) ![platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS%20-333333.svg) ![Swift version](https://img.shields.io/badge/%20Swift%20-3.1-blue.svg) [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-✓-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 
 
 
