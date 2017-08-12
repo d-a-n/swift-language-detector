@@ -1,0 +1,1 @@
+# swift-language-detector
